@@ -1,4 +1,4 @@
-# freecodecamp_timestamp_api
+# Freecodecamp Timestamp Microservice Api
 
 ## User stories:
 
